@@ -34,5 +34,5 @@ Proyek ini untuk submission [Dicoding](dicoding.com) pada learning path **Machin
 
 #### Note
 
-Pastikan file yang dikirim telah dijalankan alias sudah ada output-nya.
-Tips: Ganti runtime type ke GPU (T4) saat menjalankannya di Google Colaboratory agar lebih cepat.
+- Pastikan file yang dikirim telah dijalankan alias sudah ada output-nya.
+- Tips: Ganti runtime type ke GPU (T4) saat menjalankannya di Google Colaboratory agar lebih cepat.
